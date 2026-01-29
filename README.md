@@ -1,2 +1,5 @@
-# -zooka-ai.com
-There is no Attorney General Task interception
+# ✨ دعم وتطوير مشاريعي ✨
+
+هذا المشروع هو جزء من جهودي لتقديم أدوات وحلول مفتوحة المصدر. دعمكم عبر GitHub Sponsors يساهم بشكل مباشر في استمرارية تطوير هذه المشاريع، إضافة ميزات جديدة، وتقديم المزيد من الحلول المبتكرة للمجتمع.
+
+**[ادعموني على GitHub Sponsors](https://github.com/sponsors/ZOOKA-AI)**
